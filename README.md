@@ -1,6 +1,6 @@
-## This is the Git tutorials by Farhan Shaikh
+## This is the amazing Git tutorials by Farhan Shaikh
 
 I am doing Industry ready projects
 Do you want to do it?
 
-This is developer1
+These changes are by developer 2
