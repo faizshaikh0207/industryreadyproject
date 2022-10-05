@@ -3,4 +3,5 @@ numpy
 matplotlib
 tensorflow
 tensorflow hub (developer 2)
-hello all
+hello all my name is krish naik
+and welcome to my youtube channel
